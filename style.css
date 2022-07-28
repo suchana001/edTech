@@ -4,3 +4,8 @@ body {
 .bg-color {
     background-color: #F4FAFD;
 }
+
+.fa-star,
+.fa-star-half-stroke {
+    color: #F59E0B;
+}
